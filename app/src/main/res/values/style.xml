@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- styles.xml -->
+<style name="PrimaryButton">
+    <item name="android:background">@color/colorPrimary</item>
+    <item name="android:textColor">@android:color/white</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_marginTop">16dp</item>
+</style>
+
+<style name="TaskCheckbox" parent="Widget.AppCompat.CompoundButton.CheckBox">
+<item name="android:button">@drawable/checkbox_selector</item>
+<item name="android:layout_gravity">center_vertical</item>
+<item name="android:layout_width">wrap_content</item>
+<item name="android:layout_height">wrap_content</item>
+</style>
+
+<style name="TaskText">
+<item name="android:textSize">16sp</item>
+<item name="android:textColor">@android:color/black</item>
+</style>
