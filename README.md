@@ -21,4 +21,21 @@ Welcome to the Basic ToDo List Mobile App! This app is designed to help you mana
 1. Open the App: Launch the app on your mobile device.
 2. Add a New Task: Click on the "Add Task" button, enter the task details, and save.
 3. Toggle Task Status: Tap on a task to mark it as done or undone.
-4. Delete a Task: Swipe left or cli
+4. Delete a Task: Swipe left or click on the delete icon to remove a task.
+
+## Contributing:
+1. Fork the Repository: Click on the fork button to create your copy of the repository.
+2. Create a Feature Branch:
+ - git checkout -b feature/your-feature-name
+3. Commit Your Changes:
+ - git commit -m 'Add some feature'
+4. Push to the Branch:
+- git push origin feature/your-feature-name
+5. Create a Pull Request: Open a pull request to merge your changes into the main branch.
+
+## License:
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Support:
+If you encounter any issues or have suggestions, please open an issue on the GitHub repository.
+
